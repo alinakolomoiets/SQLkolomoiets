@@ -1,3 +1,7 @@
-1. Как переводится veeru muutmine ,versioonihaldusüsteem и veateade
+﻿1. Как переводится veeru muutmine ,versioonihaldusüsteem и veateade
+Изменить столбец, Система управления версиями, Сообщение об ошибке
 2.Как удалить столбец из таблицы
+delete stolbets from tablitsa
+where id = 1;
 3.Какие есть типы данных 
+Числовые, Символьные, Логические
